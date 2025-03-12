@@ -4,7 +4,9 @@
 **Divyanshi-Joshi/Divyanshi-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I am currently working on **predictive modeling in the field of healthcare** and **real-time object detection systems**.
-- 💬 Ask me about **Machine Learning, Computer Vision, or my projects like VisionAssist and COVID-19 diagnosis using medical imaging**.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
-- 😄 Pronouns: **She/Her**
+About Me
+👋 Hello, I am Divyanshi! I am an AI ML Enthusiast and Web Development Learner.
+🎓 AS in B.Tech in CSE @ MAIT '26 
+🛠️ I am currently working on applying ML Techniques in the field of Healthcare and also working on some full stack web development projects!!
+⚡Connect with me on [LinkedIn!](https://www.linkedin.com/in/your-linkedin-profile).
+
