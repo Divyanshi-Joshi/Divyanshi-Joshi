@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hello, I am Divyanshi! I am an AI/ML Enthusiast and Web Development Learner.  
-🎓 Pursuing B.Tech in CSE @ MAIT '26  
+🎓 Pursuing B.Tech in CSE @ MAIT'26  
 🛠️ I am currently working on applying ML techniques in the field of healthcare and building full-stack web development projects!  
-⚡ Connect with me on [LinkedIn!](https://www.linkedin.com/in/your-linkedin-profile). 
+⚡ Connect with me on [LinkedIn!](https://www.linkedin.com/in/your-linkedin-profile)
 
 ---
 
